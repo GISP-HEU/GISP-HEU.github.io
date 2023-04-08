@@ -1,0 +1,20 @@
+github_users:
+  - Linyou
+  - LittleFlyingSheep
+  - liuyoude
+  - Justlovesmile
+  - Stubsx
+  - GISP-HEU
+
+audio_github_repos:
+  - LittleFlyingSheep/P-LocalAFT
+  - LittleFlyingSheep/GraphAC
+  - LittleFlyingSheep/TSEGAN
+  - LittleFlyingSheep/DCASE2021_task6_v2
+  - liuyoude/TWFR-GMM
+  - liuyoude/STgram-MFN
+  - liuyoude/AE-ASD
+
+cv_github_repos:
+  - Justlovesmile/EARL
+  - Stubsx/TMDC-CNNs
