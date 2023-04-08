@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: GISP Lab # the website title (if blank, full name will be used instead)
+title: GISP@HEU # the website title (if blank, full name will be used instead)
 first_name: GISP #
 middle_name:  #
 last_name:  #
@@ -117,7 +117,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: GISP Lab # blog_name will be displayed in your blog page
+blog_name: GISP's BLOG # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Blogs from GISP
 permalink: /blog/:year/:title/
