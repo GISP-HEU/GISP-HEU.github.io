@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://gisp-heu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gisp-heu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-11T06:00:56+00:00</updated><id>https://gisp-heu.github.io/feed.xml</id><title type="html">GISP@HEU</title><subtitle>哈尔滨工程大学智能信号处理组(GISP@HEU)
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://gisp-heu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://gisp-heu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-11T06:46:27+00:00</updated><id>https://gisp-heu.github.io/feed.xml</id><title type="html">GISP@HEU</title><subtitle>哈尔滨工程大学智能信号处理组(GISP@HEU)
 </subtitle><entry><title type="html">GISP两项异音检测研究成果被信号处理领域顶级国际会议ICASSP录用</title><link href="https://gisp-heu.github.io/blog/2023/ICSSP2023/" rel="alternate" type="text/html" title="GISP两项异音检测研究成果被信号处理领域顶级国际会议ICASSP录用" /><published>2023-02-17T11:11:00+00:00</published><updated>2023-02-17T11:11:00+00:00</updated><id>https://gisp-heu.github.io/blog/2023/ICSSP2023</id><content type="html" xml:base="https://gisp-heu.github.io/blog/2023/ICSSP2023/"><![CDATA[<p>近日，2023年IEEE国际声学、语音与信号处理会议(International Conference on Acoustics, Speech and Signal Processing, ICASSP 2023)发布录用通知，哈尔滨工程大学智能信号处理组(Group of Intelligent Signal Processing，GISP)两项异常声音检测研究成果被大会接收。ICASSP是由IEEE主办的信号处理领域顶级国际会议，是音频方向最具盛誉与学术影响力的顶级会议。今年，将于6月4日至10日在希腊罗德岛举行第48届会议，主题为 “Signal Processing in the AI era”。本次也是课题组研究工作连续第4年被ICASSP录用。</p>
 
 <p>异常声音检测(Anomalous Sound Detection, ASD)旨在根据机器设备运行声音自动判断机器运行状态是否异常，以实现机器设备的故障检测及预测性维护，该研究在工业生产领域具有广阔应用前景。近年来，GISP课题组在该方向取得一系列研究成果，本次录用两篇论文均从声学特征表示角度出发，给出创新性解决方案，并受到评审专家高度赞誉（“refreshing”, “neat”），予以接收。以下是两篇论文简介：</p>
@@ -21,81 +21,4 @@
 
 <p><img src="/assets/img/posts/Time-weighted_Frequency_Domain_Audio_Representation_with_GMM_Estimator_for_Anomalous_Sound_Detection.png" alt="" /></p>
 
-<p>现有的结合基于频率统计的音频特征表示的高斯混合模型(GMM)对无监督异音检测任务中不同机器类型的表现参差不齐。对此，本文提出了结合基于时域加权频率特征表示的高斯混合模型(TWFR-GMM)用于异常声音检测。TWFR是一种通用的基于加权统计的频率表示，其在时域上使用全局加权秩池化(GWRP)得到最终的频率特征表示，通过超参数的设置可以适应不同的机器类型。这使得GMM估计器即使是在域转移的情况下也能够保持良好的异常检测性能。在DCASE 2022 Challenge Task2数据集上的实验表明，我们的非深度学习方法可以获得与最新的深度学习方法相当，甚至更好的异常检测性能。TWFR-GMM是我们在DCASE 2022 Challenge Task2中提交方法的主要部分，该方法获得了系统排名第三名。</p>]]></content><author><name></name></author><category term="会议录用" /><category term="ICASSP" /><summary type="html"><![CDATA[近日，2023年IEEE国际声学、语音与信号处理会议(International Conference on Acoustics, Speech and Signal Processing, ICASSP 2023)发布录用通知，哈尔滨工程大学智能信号处理组(Group of Intelligent Signal Processing，GISP)两项异常声音检测研究成果被大会接收。]]></summary></entry><entry><title type="html">哈尔滨工程大学GISP实验室招收2023级推免研究生</title><link href="https://gisp-heu.github.io/blog/2022/%E6%8B%9B%E6%96%B02023/" rel="alternate" type="text/html" title="哈尔滨工程大学GISP实验室招收2023级推免研究生" /><published>2022-09-26T19:12:00+00:00</published><updated>2022-09-26T19:12:00+00:00</updated><id>https://gisp-heu.github.io/blog/2022/%E6%8B%9B%E6%96%B02023</id><content type="html" xml:base="https://gisp-heu.github.io/blog/2022/%E6%8B%9B%E6%96%B02023/"><![CDATA[<p style="text-align:center;font-size:x-large;color:blue;text-shadow: 2px 2px #0DADC5,-1px -1px #0DADC5,1px -1px #0DADC5,-1px 1px #0DADC5;">GISP实验室</p>
-<p style="text-align:center;font-size:large;color:blue;text-shadow: 2px 2px #0DADC5,-1px -1px #0DADC5,1px -1px #0DADC5,-1px 1px #0DADC5;">招新啦！！！</p>
-
-<blockquote>
-  <p>智能信号处理组（Group of Intelligent Signal Processing, GISP），隶属于哈尔滨工程大学计算机科学与技术学院，由关键老师指导。GISP与国内外学术界和工业界广泛合作，通过合作研究、共同指导模式，共同进行人工智能技术驱动的信号处理基础理论及应用研究。</p>
-</blockquote>
-
-<p><img src="/assets/img/posts/20230408152812.jpg" alt="" /></p>
-
-<h1 id="2023级硕士招生课题方向">2023级硕士招生课题方向</h1>
-
-<ol>
-  <li>音频智能：
-    <blockquote>
-      <ul>
-        <li>研究内容声学场景分类与事件检测</li>
-        <li>（联合指导）</li>
-      </ul>
-    </blockquote>
-  </li>
-  <li>遥感图像智能解译：
-    <blockquote>
-      <ul>
-        <li>研究内容遥感图像目标检测、多源遥感信息融合</li>
-        <li>（天地一体化信息技术国家重点实验联合培养1-2年）</li>
-      </ul>
-    </blockquote>
-  </li>
-</ol>
-
-<h1 id="projects">Projects</h1>
-
-<h2 id="audio-ai">Audio AI</h2>
-<h3 id="mlp-mixer心电信号ecg处理">MLP-Mixer心电信号(ECG)处理</h3>
-
-<p><img src="/assets/img/posts/20230408153001.png" alt="" /></p>
-
-<h3 id="时频融合异音检测">时频融合异音检测</h3>
-
-<p><img src="/assets/img/posts/20230408153044.png" alt="" /></p>
-
-<h3 id="局部信息构建音频语意">局部信息构建音频语意</h3>
-
-<p><img src="/assets/img/posts/20230408153111.png" alt="" /></p>
-
-<h2 id="remote-sensing-image-interpretation">Remote Sensing Image Interpretation</h2>
-
-<h3 id="元度量学习解决类别高度不平衡问题">元度量学习解决类别高度不平衡问题</h3>
-
-<p><img src="/assets/img/posts/20230408153229.png" alt="" /></p>
-
-<h3 id="构建联合损失进行视觉目标检测">构建联合损失进行视觉目标检测</h3>
-
-<p><img src="/assets/img/posts/20230408153304.png" alt="" /></p>
-
-<h3 id="利用两阶段损失解决小样本合成孔径雷达图像sar识别">利用两阶段损失解决小样本合成孔径雷达图像(SAR)识别</h3>
-
-<p><img src="/assets/img/posts/20230408153342.png" alt="" /></p>
-
-<h1 id="我们希望你">我们希望你</h1>
-
-<ul>
-  <li>拥有较高的专注度和投入度</li>
-  <li>喜欢钻研问题、独立思考</li>
-  <li>拥有自我学习和补充新知的能力</li>
-  <li>拥有较好的英文水平</li>
-</ul>
-
-<h1 id="报名方式">报名方式</h1>
-
-<ul>
-  <li>意向同学请以 [2023推免]-[姓名] 为标题，发邮件至关老师邮箱 j.guan@hrbeu.edu.cn并附上相关材料(如：简历、科研兴趣等)</li>
-  <li>哈尔滨工程大学本校学生优先考虑</li>
-</ul>
-
-<blockquote>
-  <p>关键老师-教师个人主页: <a href="http://homepage.hrbeu.edu.cn/web/guanjian1">http://homepage.hrbeu.edu.cn/web/guanjian1</a></p>
-</blockquote>]]></content><author><name></name></author><category term="公告" /><category term="招新" /><summary type="html"><![CDATA[智能信号处理组GISP招新啦！！！]]></summary></entry></feed>
+<p>现有的结合基于频率统计的音频特征表示的高斯混合模型(GMM)对无监督异音检测任务中不同机器类型的表现参差不齐。对此，本文提出了结合基于时域加权频率特征表示的高斯混合模型(TWFR-GMM)用于异常声音检测。TWFR是一种通用的基于加权统计的频率表示，其在时域上使用全局加权秩池化(GWRP)得到最终的频率特征表示，通过超参数的设置可以适应不同的机器类型。这使得GMM估计器即使是在域转移的情况下也能够保持良好的异常检测性能。在DCASE 2022 Challenge Task2数据集上的实验表明，我们的非深度学习方法可以获得与最新的深度学习方法相当，甚至更好的异常检测性能。TWFR-GMM是我们在DCASE 2022 Challenge Task2中提交方法的主要部分，该方法获得了系统排名第三名。</p>]]></content><author><name></name></author><category term="会议录用" /><category term="ICASSP" /><summary type="html"><![CDATA[近日，2023年IEEE国际声学、语音与信号处理会议(International Conference on Acoustics, Speech and Signal Processing, ICASSP 2023)发布录用通知，哈尔滨工程大学智能信号处理组(Group of Intelligent Signal Processing，GISP)两项异常声音检测研究成果被大会接收。]]></summary></entry></feed>
