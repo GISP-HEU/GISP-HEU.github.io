@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GISP-HEU.github.io/sitemap.xml
+Sitemap: https://gisp-heu.github.io/sitemap.xml
