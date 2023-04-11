@@ -12,13 +12,13 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h1> 期刊论文-Journal </h1>
+<h1> 期刊论文-Journal Papers </h1>
 {%- for y in page.journal_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f journal -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h1> 会议论文-Conference </h1>
+<h1> 会议论文-Conference Papers </h1>
 {%- for y in page.journal_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f conference -q @*[year={{y}}]* %}
